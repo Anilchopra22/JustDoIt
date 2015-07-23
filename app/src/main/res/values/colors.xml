@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ACTIONBAR_OVERFLOW_DIVIDER">#d8d8d8</color>
+    <color name="light_white">#e6e6e6</color>
+    <color name="actionbar_background">#ff69d8ff</color>
+</resources>
